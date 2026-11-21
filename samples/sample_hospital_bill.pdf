@@ -1,0 +1,45 @@
+%PDF-1.4
+1 0 obj<< /Type /Catalog /Pages 2 0 R >>endobj
+2 0 obj<< /Type /Pages /Kids [3 0 R] /Count 1 >>endobj
+3 0 obj<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>endobj
+4 0 obj<< /Length 1184 >>stream
+BT
+/F1 10 Tf
+50 780 Td
+12 TL
+(CITY GENERAL HOSPITAL - ITEMIZED STATEMENT) Tj
+T* (Patient: Alex Sample   Account: ACCT-77821   DOS: 2026-03-12) Tj
+T* (Insurance: Sample PPO Gold 2026) Tj
+T* () Tj
+T* (CPT   DESCRIPTION                                      CHARGE) Tj
+T* (99223 Initial hospital care, high complexity           1850.00) Tj
+T* (93000 Electrocardiogram, complete                       425.00) Tj
+T* (80053 Comprehensive metabolic panel                     890.00) Tj
+T* (70450 CT head without contrast                         4200.00) Tj
+T* (J3490 Unclassified drugs \(IV saline bags\)               680.00) Tj
+T* (99223 Initial hospital care, high complexity           1850.00) Tj
+T* (94640 Pressurized inhalation treatment                  315.00) Tj
+T* (A0425 Ground mileage ambulance                         1240.00) Tj
+T* (99070 Supplies and materials                           2100.00) Tj
+T* (96365 IV infusion, initial hour                        4900.00) Tj
+T* () Tj
+T* (SUBTOTAL                                              18450.00) Tj
+T* (TOTAL AMOUNT DUE                                      18450.00) Tj
+T* () Tj
+T* (Please remit payment within 30 days.) Tj
+ET
+endstream
+endobj
+5 0 obj<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000056 00000 n 
+0000000111 00000 n 
+0000000235 00000 n 
+0000001469 00000 n 
+trailer<< /Size 6 /Root 1 0 R >>
+startxref
+1537
+%%EOF
